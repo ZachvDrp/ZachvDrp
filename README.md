@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## Hi there
+## Hi there 👋
 
 Currently a personal trainer and coach, I am seeking to transition into a career that aligns with my interests in **IT security**. Looking for **junior** roles within a company's security team where I can learn a wide range of topics and think on my feet. I have been learning **Python** in my free time and have recently completed the Azure fundamentals course (AZ900).
 
